@@ -1,3 +1,9 @@
+#Olá, eu sou o Júlio Cesar
+
+- 💻Hoje trabalho com front-end
+- 📚Estudando HTML, CSS e Javascrypt
+- Pronomes: Ele/Dele
+
 <div>
   <a href="https://github.com/jcsar-andrad">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcsar-andrad&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
