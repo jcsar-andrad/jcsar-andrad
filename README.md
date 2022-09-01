@@ -1,4 +1,4 @@
-#Olá, eu sou o Júlio Cesar
+# Olá, eu sou o Júlio Cesar
 
 - 💻Hoje trabalho com front-end
 - 📚Estudando HTML, CSS e Javascrypt
